@@ -1,2 +1,2 @@
 # MachineLearning
-MLcodes
+Basic machine learning codes in matlab.
