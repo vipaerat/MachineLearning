@@ -1,2 +1,2 @@
 # MachineLearning
-Sample machine learning codes.
+Basic machine learning codes in matlab.
