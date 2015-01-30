@@ -1,2 +1,2 @@
 # MachineLearning
-MLcodes
+Sample machine learning codes.
